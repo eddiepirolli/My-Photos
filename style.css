@@ -1,0 +1,28 @@
+/* General body styles */
+body {
+    margin: 0;
+    padding: 0;
+    background: #0f1724;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+/* Header styles */
+header {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+/* Gallery styles */
+.gallery {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+/* Gallery images styling */
+.gallery img {
+    margin: 10px;
+    border-radius: 5px;
+    max-width: 300px;
+    height: auto;
+}
